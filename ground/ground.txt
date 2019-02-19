@@ -1,6 +1,7 @@
 potato
 tomato
 cilantro
-olives
+olives 
+pickles
 carrot
 
